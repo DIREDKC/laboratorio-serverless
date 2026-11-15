@@ -1,0 +1,17 @@
+{
+    "nombre": "JOSE RODOLFO",
+    "apellido": "SALAZAR PINEDA",
+    "email": "diredkcrew@gmail.com",
+    "token": "1fa96159-fe29-46e5-a31f-cb7c7bf80587",
+    "fecha_utc": "2026-11-15T05:32:40.899791+00:00",
+    "sistema_operativo": "Linux",
+    "version_so": "7.0.0-43-generic",
+    "arquitectura": "x86_64",
+    "procesador": "",
+    "version_python": "3.12.16",
+    "hostname_contenedor": "3aeda1dd4b49",
+    "plataforma": "OpenFaaS",
+    "funcion": "registro-serverless",
+    "estado": "Ejecucion exitosa",
+    "firma_sha256": "f5d37cd79f4ab69fb3bdd279fc49938b4e508c19361496dc407368c434a9807b"
+}
